@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Architectural patterns - holiness or guideline?"
-date:   2019-08-01
+title: "Architectural patterns - holiness or guideline?"
+date: 2019-08-01
 banner_image: road.jpg
 tags: [development, architecture, patterns, design]
 ---
-
 
 Many people at the beginning of the project ask themselves - what architecture to choose? Would you not even think about it when starting your first serious project? I bet you would.
 
