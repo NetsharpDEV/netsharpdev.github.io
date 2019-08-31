@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Architectural patterns - holiness or guideline?"
-date: 2019-08-01
+date: 2019-09-01
 banner_image: road.jpg
 tags: [development, architecture, patterns, design]
 ---
