@@ -7,7 +7,7 @@ banner_image: aboutPage.jpg
 
 ### Contact me
 
-You can put in touch with me via this email: <a href="mailto:pawel.pindel@netsharpdev.pl">**pawel.pindel@netsharpdev.pl**</a>
+You can put in touch with me via this email: <a href="mailto:pawel.pindel@netsharpdev.com">**pawel.pindel@netsharpdev.com**</a>
 
 ### Who am I?
 
