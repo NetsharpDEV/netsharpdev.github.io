@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Asynchronous programming in .NET - introduction"
+title: 'Asynchronous programming in .NET - introduction'
 date: 2019-09-16
 banner_image: async.jpg
 tags: [development, asynchronous, tutorial, programming, introduction]
@@ -15,7 +15,7 @@ Asynchronous programming involves approaching the problem in a completely differ
 
 Imagine a situation in which a user wants to download a list of e-mails in his e-mail client, e.g. Outlook. Choose the download button and ...?
 
-In a synchronous approach, his main program thread has just been blocked to perform email retrieval. What does it mean? Well, at this point the application stops responding to any commands, you can not start writing a new message, change settings, etc. In today's world, something like this is unacceptable. Anyone who would see such an application would quickly remove it from their computer. And here, among other things, the asynchronous approach will apply. It will allow you to transfer the operation of loading the list of messages to a separate thread, so that the main thread will be unlocked and the user will be able to perform other operations, while the list of messages will be completed locally after the operation.
+In a synchronous approach, his main program thread has just been blocked to execute email retrieval. What does it mean? Well, at this point the application stops responding to any commands, you can not start writing a new message, change settings, etc. In today's world, something like this is unacceptable. Anyone who would see such an application would quickly remove it from their computer. And here, among other things, the asynchronous approach will apply. It will allow you to transfer the operation of loading the list of messages to a separate thread, so that the main thread will be unlocked and the user will be able to execute other operations, while the list of messages will be completed locally after the operation.
 
 Asynchronous programming gives much better results in this situation, but by default it requires much more complicated code, but not this time! Microsoft in C # 5.0 introduced a brilliant solution to this problem, the keywords "async" and "await", which allow you to write code almost identical to the synchronous code, and making the operations are asynchronous. I already explain what's going on:
 
@@ -83,11 +83,11 @@ public async Task<IEnumerable<Email>> GetEmailsAsync(Uri uri)
 
 See how easy it is? Try adding this to your application and you will see that from now on the main thread is no longer locked.
 
-In this case, our problem is solved, but what if we have several operations performed in sequence? Combining tasks comes to the rescue.
+In this case, our problem is solved, but what if we have several operations executed in sequence? Combining tasks comes to the rescue.
 
 ### Combining tasks
 
-Sometimes, instead of waiting for each task and performing it sequentially, we can define it earlier and wait for all of them to finish their operation if we do not need to wait for each of them to finish before the next one begins. For this we use Task.WhenAll(). This method says: wait until all the tasks are finished and then continue with the main method. On the other hand, if you don't want to wait for all the methods to finish, and only one, no matter which, we can use Task.WhenAny(); - whenany returns us the first task completed.
+Sometimes, instead of waiting for each task and executing it sequentially, we can define it earlier and wait for all of them to finish their operation if we do not need to wait for each of them to finish before the next one begins. For this we use Task.WhenAll(). This method says: wait until all the tasks are finished and then continue with the main method. On the other hand, if you don't want to wait for all the methods to finish, and only one, no matter which, we can use Task.WhenAny(); - whenany returns us the first task completed.
 
 Let's create simple cooker! We don't want to start preparing everything step by step. All operations will start at once, boiling water, boiling potatoes and frying bacon. We are newbie and want to check what will finish first.
 
@@ -144,7 +144,7 @@ Bacon was first!
 ```
 
 Do you see how easy it is?
-At the very beginning I put forward the thesis that asynchronous programming is better - I continue to say, with the capabilities of today's computers, using many threads is an obligation and not just a good practice. However, it should be remembered that always when choosing a solution, template or technology should be guided by common sense and knowledge. If we are creating a simple console application that has to perform a few commands and finish, then rewriting it, redesigning asynchronous can be a slight overengineering, so remember! Always think what you need at the moment and what is appropriate.
+At the very beginning I put forward the thesis that asynchronous programming is better - I continue to say, with the capabilities of today's computers, using many threads is an obligation and not just a good practice. However, it should be remembered that always when choosing a solution, template or technology should be guided by common sense and knowledge. If we are creating a simple console application that has to execute a few commands and finish, then rewriting it, redesigning asynchronous can be a slight overengineering, so remember! Always think what you need at the moment and what is appropriate.
 
 That's it in the first part about asynchronous programming.
 In the next I will tell you a little more I will focus on the other issues related to asynchronous development and maybe we will slightly touch on reactive extensions. However, what you have read here should be enough to create a fully working application with asynchronous methods.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Architectural patterns - holiness or guideline?"
+title: 'Architectural patterns - holiness or guideline?'
 date: 2019-09-01
 banner_image: road.jpg
 tags: [development, architecture, patterns, design]
@@ -11,6 +11,8 @@ Many people at the beginning of the project ask themselves - what architecture t
 In this post I will try to answer this question from my perspective, because I have always thought about it myself... until one day.
 
 <!--more-->
+
+### Microservices or monolith?
 
 Some time ago, at the request of one of the companies, I was to prepare an application whose functionalities were to be facial recognition. My first thought? MICROSERVICES! - because why not put a super microservice, which will be heavily loaded with processing images containing the face, next to the rest of the functionalities that did not require such resources? The application seemed ideal to directly adapt to this architecture. However, I quickly collided with a customer who said - I want to have it in a month. Then a doubt appeared in my head: "There is no option, I will not do it in such a short time, after all, so much configuration and planning are needed, and the client does not understand how important it is for him in the perspective of time and application development."
 
