@@ -28,7 +28,9 @@ navigation:
   - text: Home
     url: /
   - text: About
-    url: /about/
+    url: /about/    
+  - text: Curriculum Vitae
+    url: /assets/PawelPindel_CV.pdf
   - text: Archives
     url: /tags/
 
