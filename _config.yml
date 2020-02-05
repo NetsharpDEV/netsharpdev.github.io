@@ -29,8 +29,8 @@ navigation:
     url: /
   - text: About
     url: /about/    
-  - text: Curriculum Vitae
-    url: /assets/PawelPindel_CV.pdf
+  - text: Portfolio
+    url: /portfolio/
   - text: Archives
     url: /tags/
 
@@ -42,7 +42,7 @@ author_name: "Paweł Pindel"
 author_bio: "My name is Paweł Pindel, experienced .NET developer, Microsoft Technologies enthusiast and software development addict. Working currently at Talmundo. 
 I am here to share my knowledge and discuss with you."
 author_url: "https://netsharpdev.com"
-author_location: "Krakow, Poland"
+author_location: "Kraków, Poland"
 author_image: /images/authorimage.jpg
 
 # Sidebar Add banner
