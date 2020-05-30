@@ -11,7 +11,7 @@ You can contact me via this email: <a href="mailto:pawel.pindel@netsharpdev.com"
 
 ### Who am I?
 
-My name is Paweł Pindel, I am Software Engineer from Poland, owner of NETSharp Development, currently working for [Talmundo](https://talmundo.com). As a developer I have over 4 years of professional experience. I am Microsoft Technologies enthusiast but also open for other tech stacks. Trying to pick language adequate to the problem - not to solve all problems with one language or framework.
+My name is Paweł Pindel, I am Software Engineer from Poland, owner of NETSharp Development, currently working for [Sii Poland](https://sii.pl/). As a developer I have 5 years of professional experience. I am Microsoft Technologies enthusiast but also open for other tech stacks. Trying to pick language adequate to the problem - not to solve all problems with one language or framework.
 
 My motto is:
 >Try to learn something about everything and everything about something. <cite>― Thomas Henry Huxley</cite>

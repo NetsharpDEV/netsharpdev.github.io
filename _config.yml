@@ -21,7 +21,7 @@ sass:
   sass_dir: _sass
 
 # The base hostname & protocol of your site for where absolute urls are needed
-url: "https://netsharpdev.com"
+url: "https://netsharpdev.github.io"
 
 # Site navigation - each item must have a title and a url.
 navigation:
@@ -39,7 +39,7 @@ disqus: netsharpdev
 
 # Author information - author info at the bottom of the post
 author_name: "Paweł Pindel"
-author_bio: "My name is Paweł Pindel, experienced .NET developer, Microsoft Technologies enthusiast and software development addict. Working currently at Talmundo. 
+author_bio: "My name is Paweł Pindel, experienced .NET developer, Microsoft Technologies enthusiast and software development addict. Working currently at Sii Poland. 
 I am here to share my knowledge and discuss with you."
 author_url: "https://netsharpdev.com"
 author_location: "Kraków, Poland"
