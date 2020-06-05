@@ -16,7 +16,7 @@ My name is Paweł Pindel, I am Software Engineer from Poland, owner of NETSharp 
 My motto is:
 >Try to learn something about everything and everything about something. <cite>― Thomas Henry Huxley</cite>
 
-Besides development, I am amateur chef and also really enjoy travelling and hiking around the world but especially in love with polish countryside and nature. In my free time I play the guitar.
+Besides development, I am amateur chef and also really enjoy travelling and hiking around the world but especially in love with polish countryside and nature. In my free time I train archery.
 
 ### Why do I write?
 
