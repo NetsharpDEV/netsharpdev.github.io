@@ -39,7 +39,21 @@ From business perspective, Azure Functions should be used whenever you need cust
 
 ## Use-case
 
-I explained to you three options Azure provides us with. But I haven't presented yet how to decide on what I need in specific business case. I will try to describe some situiations and assign potential solution with explanation to it.
+I explained to you three options Azure provides us with. But I haven't presented yet how to decide on what we need in specific business case. I will try to describe some situiations and assign potential solution with explanation to it.
+
+### Ordering system
+
+Let's say we want to create application for processing orders in furniture shop. Main business goal is to fill order request, send it to excel file within company drive and notify specified group of people responsible for orders about new order.
+
+As we can see this is quite simple flow and doesn't require anything custom. Moreover, it may change frequently if company decides to store orders somewhere else than excel. It is possible that in some time they would like to extend or change email notifications to sms.
+
+Next simple question we ask - do we have money or do we need IT team for that? I would say that it is nice to have someone fluent with Microsoft tools, but it doesn't have to be developer since we are not going to implement anything custom.
+
+In this application I would definately recommend to use Microsoft Power Automate. 
+
+However, this is not always that clear. For example, if we have any complicated validation of input or data is processed in some unique way before saving it to database/excel sheet, then we should consider using Azure Functions, or hybrid flow where Logic Apps invoke function as a step in the process.
+
+For more complicated operations, time consuming there are Durable Functions. I will write about them in the other articles. 
 
 
 # Summary
