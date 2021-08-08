@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Long time no see!'
-date: 2021-07-01
+date: 2021-08-01
 banner_image: longtimenosee.jpg
 tags: [general]
 ---

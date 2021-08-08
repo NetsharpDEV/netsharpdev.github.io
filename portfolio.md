@@ -8,6 +8,12 @@ banner_image: portfolio.jpg
 
 Below you can find my portfolio.
 
+## ABB Library
+
+While I was been working for Sii Poland I was delegated to ABB Global Business Services to design and develop project called Library. It is full text search solution within company. It stores documents, manuals and many different types of files which are shared accros company and also to the customers. I was responsible not only for a product but also DevOps processes around that.
+
+---
+
 ## Talmundo Onboarding App
 
 ![talmundo](/images/talmundo.jpg)
