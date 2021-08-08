@@ -9,7 +9,7 @@
 title: "Paweł Pindel | .NET - Azure - Software Development"
 
 # A description of your site for social meta tag, search engines, and feed.xml
-description: "NETSHARPDEV is a developer blog about Azure, .NET and Architecture. Here you can read some great posts of Paweł Pindel, Software Engineer at Talmundo and NETSharp Development."
+description: "NETSHARPDEV is a developer blog about Azure, .NET and Architecture. Here you can read some great posts of Paweł Pindel, Software Engineer at Gravity9 and NETSharp Development."
 
 # Tagline near the site title
 tagline: "Opinions, thoughts, solutions"
@@ -39,7 +39,7 @@ disqus: netsharpdev
 
 # Author information - author info at the bottom of the post
 author_name: "Paweł Pindel"
-author_bio: "My name is Paweł Pindel, experienced .NET developer, Microsoft Technologies enthusiast and software development addict. Working currently at Sii Poland. 
+author_bio: "My name is Paweł Pindel, experienced .NET developer, Microsoft Technologies enthusiast and software development addict. Working currently at Gravity9. 
 I am here to share my knowledge and discuss with you."
 author_url: "https://netsharpdev.com"
 author_location: "Kraków, Poland"
