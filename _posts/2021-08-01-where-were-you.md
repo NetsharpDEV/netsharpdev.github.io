@@ -16,6 +16,6 @@ For the last year I have been focused on improving my skills, graduating from un
 
 ## What will be the next steps?
 
-I am devoted to write more posts by the end of the year. In coming weeks I am going to describe possible messaging solutions in Azure, to show how to use them and what are the best use cases for each of them.
+I am devoted to write more posts by the end of the year. In coming weeks I will come back to you with nice blog posts.
 
 Stay tuned!
