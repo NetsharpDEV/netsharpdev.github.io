@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geospartial Indexes in MongoDB'
+title: 'Geospatial Indexes in MongoDB'
 date: 2021-09-09
 banner_image: mongo.jpg
 tags: [mongodb, solutions, database]
