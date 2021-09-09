@@ -22,4 +22,4 @@ Besides development, I am amateur chef and also really enjoy travelling and hiki
 
 I am writing this blog to share my knowledge about development but also to learn. It is a great opportunity to improve skill when I have to prepare professional text about a chosen topic. <br>Being open for discussion, I also want to learn from you! So please leave a comment if you have something to say on what I wrote.
 
-*Thank You for reading!*
+*Enjoy the reading!*
