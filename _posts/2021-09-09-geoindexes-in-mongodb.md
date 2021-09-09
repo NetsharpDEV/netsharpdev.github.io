@@ -8,7 +8,7 @@ tags: [mongodb, solutions, database]
 
 ## What are geospatial indexes?
 
-Recently I passed MongoDB Professional Developer certification program. I learnt there about something called Geospatial Indexes. This kind of index had been created to handle geospatial queries. Thanks to them we can easily get nearby places, calculate area, distance or find all points within certain coordinates range.
+Recently I have been preparing to MongoDB Professional Developer certification program. I learnt there about something called Geospatial Queries and Indexes. This kind of index had been created to handle geospatial queries. Thanks to them we can easily get nearby places, calculate area, distance or find all points within certain coordinates range.
 
 <!--more-->
 
