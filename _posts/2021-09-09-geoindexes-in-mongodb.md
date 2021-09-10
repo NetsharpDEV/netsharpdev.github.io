@@ -190,6 +190,6 @@ This aggregation is going to return us an array with one object in it.
 ]
 ```
 
-Look how awesome this is! Thanks to Geospatial queries and GeoIndexes we can build awesome solutions that use maps and distances between the points we imagine! Geospatial Queries gives us even more. I hope I helped you a bit to understand how it works. I encourage you to read more about that on official MongoDB [website](https://docs.mongodb.com/manual/geospatial-queries/). If you have any questions, please reach out to me in the comments section or write an email: pawel.pindel@netsharpdev.com.
+Look how awesome this is! Thanks to Geospatial queries and GeoIndexes we can build awesome solutions that use maps and distances between the points we imagine! Geospatial Queries give us even more. I hope I helped you a bit to understand how it works. I encourage you to read more about that on official MongoDB [website](https://docs.mongodb.com/manual/geospatial-queries/). If you have any questions, please reach out to me in the comments section or write an email: pawel.pindel@netsharpdev.com.
 
 
