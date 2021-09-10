@@ -15,7 +15,7 @@ description: "NETSHARPDEV is a developer blog about Azure, .NET and Architecture
 tagline: "Opinions, thoughts, solutions"
 
 # The subpath of your site, e.g. /blog, for generating urls
-baseurl:
+baseurl: ''
 
 sass:
   sass_dir: _sass
@@ -57,8 +57,8 @@ twitter_username: "netsharpdev"
 facebook_username: "pawel.pindel"
 github_username: "netsharpdev"
 codepen_username: "netsharpdev"
-medium_username: "@netsharpdev"
-instagram_username: "pindelpawel"
+# medium_username: "@netsharpdev"
+# instagram_username: "pindelpawel"
 linkedin_username: "pawelpindel"
 
 # http://jekyllrb.com/docs/pagination/
