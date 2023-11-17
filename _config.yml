@@ -39,11 +39,11 @@ disqus: netsharpdev
 
 # Author information - author info at the bottom of the post
 author_name: "Paweł Pindel"
-author_bio: "My name is Paweł Pindel, experienced .NET developer, Microsoft Technologies enthusiast and software development addict. Working currently at Gravity9. 
+author_bio: "My name is Paweł Pindel, Software Engieer and Technical Leader, Microsoft Technologies enthusiast. Working currently at gravity9. 
 I am here to share my knowledge and discuss with you."
 author_url: "https://netsharpdev.com"
 author_location: "Kraków, Poland"
-author_image: /images/authorimage.jpg
+author_image: /images/author.jpeg
 
 # Sidebar Add banner
 banner_url: "https://netsharpdev.com"
