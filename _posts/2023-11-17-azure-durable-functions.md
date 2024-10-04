@@ -3,7 +3,7 @@ layout: post
 title: 'Unleasing the Power of Azure Durable Functions'
 date: 2023-11-17
 banner_image: azure-functions-2.png
-tags: [devops, azure, solutions, functions, orchestratrion]
+tags: [devops, azure, solutions, functions, orchestration]
 ---
 
 
